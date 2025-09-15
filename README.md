@@ -13,6 +13,13 @@ A fantasy animation-style game built in Unreal Engine 5. Features custom combat,
 - Blender (3D modeling & animation)  
 - GitHub (version control & collaboration)  
 
-## License
-- **Code**: [MIT License](./LICENSE)  
-- **Assets (art, models, textures, music)**: [CC BY 4.0](./ASSETS_LICENSE)  
+## 🛡️ License
+
+[![License: Proprietary with Modding Allowed](https://img.shields.io/badge/License-Proprietary--Modding--Allowed-blue.svg)](#)
+
+This project is licensed under the **ForgottenMask Game License (All Rights Reserved – Modding Allowed with Restrictions)**.  
+- ✅ Mods are allowed, including visual, gameplay, and content expansions.  
+- ❌ Selling or redistributing the **base game or source code** is prohibited.  
+- ⚖️ Modders may sell their mods under their own license, provided they clearly state they are independent works.  
+
+For full terms, see the [LICENSE](./LICENSE) file.
