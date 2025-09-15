@@ -16,4 +16,3 @@ A fantasy animation-style game built in Unreal Engine 5. Features custom combat,
 ## License
 - **Code**: [MIT License](./LICENSE)  
 - **Assets (art, models, textures, music)**: [CC BY 4.0](./ASSETS_LICENSE)  
-<img width="510" height="279" alt="image" src="https://github.com/user-attachments/assets/fad273bd-a4a6-4e30-a95f-b305fdb07280" 
